@@ -1,7 +1,7 @@
 ---
 title: whois
 ---
-O comando `whois`​ no Linux é uma ferramenta de linha de comando que permite consultar informações sobre registros de domínios na internet. Ao executar `whois`​ seguido de um nome de domínio, o usuário obtém dados como o nome do domínio, datas de criação e expiração, informações sobre o proprietário (incluindo nome e contato), servidores de nome (DNS) associados e o status do domínio. É uma ferramenta útil para administradores de sistemas, desenvolvedores web e profissionais de segurança cibernética que desejam verificar a disponibilidade de domínios ou investigar informações relacionadas a sites. #teste
+O comando `whois`​ no Linux é uma ferramenta de linha de comando que permite consultar informações sobre registros de domínios na internet. Ao executar `whois`​ seguido de um nome de domínio, o usuário obtém dados como o nome do domínio, datas de criação e expiração, informações sobre o proprietário (incluindo nome e contato), servidores de nome (DNS) associados e o status do domínio. É uma ferramenta útil para administradores de sistemas, desenvolvedores web e profissionais de segurança cibernética que desejam verificar a disponibilidade de domínios ou investigar informações relacionadas a sites. 
 
 O resultado do comando `whois sandovalfilho.com.br`​ fornece informações sobre o domínio "sandovalfilho.com.br". Aqui está uma explicação dos principais elementos do resultado:
 
