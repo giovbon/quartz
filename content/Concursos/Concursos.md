@@ -1,7 +1,6 @@
 ---
 title: Concursos
 tags:
-  - teste/bla
+  - concurso
 ---
 - [[Técnico Judiciário - Programação de Sistemas 2024]]
-- 
