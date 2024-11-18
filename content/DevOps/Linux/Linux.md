@@ -1,5 +1,0 @@
----
-title: Linux
----
-[[whois]]
-[[nmap]]
