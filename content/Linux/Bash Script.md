@@ -6,6 +6,9 @@ tags:
 ---
 ![[neovim#Começar usando]]
 
+> [!tip] Veja +
+> 
+> [[awk]] [[sed]]
 ## Variáveis
 
 - definição com maiúsculas e `=` 
@@ -170,8 +173,3 @@ showname GIOBON
 ❯ ./teste.sh
 Olá GIOBON
 ```
-
-## Veja
-
-- [[awk]]
-- [[sed]]
