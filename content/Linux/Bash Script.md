@@ -4,7 +4,7 @@ fonte: https://www.youtube.com/watch?v=tK9Oc6AEnR4
 tags:
   - devops
 ---
-![[neovim#Básico]]
+![[neovim#Começar usando]]
 
 ## Variáveis
 
@@ -170,3 +170,8 @@ showname GIOBON
 ❯ ./teste.sh
 Olá GIOBON
 ```
+
+## Veja
+
+- [[awk]]
+- [[sed]]

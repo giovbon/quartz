@@ -1,10 +1,12 @@
 ---
 title: neovim
 fonte: https://www.youtube.com/watch?v=RZ4p-saaQkc
+tags:
+  - devops
 ---
-Trabalha com dois modos, modo normal, com comandos dados através de `:`​ e modo de inserção, apertando tecla `i`​, o que faz escrever os textos norma, a tecla `esc`​ sai do modo de inserção. `d`​ para deletar e `a`​ (append) de anexar
+## Começar usando
 
-## Básico
+Trabalha com dois modos, modo normal, com comandos dados através de `:`​ e modo de inserção, apertando tecla `i`​, o que faz escrever os textos norma, a tecla `esc`​ sai do modo de inserção. `d`​ para deletar e `a`​ (append) de anexar
 
 * ​`nvim arq.txt`​
 * ​`i`​ ou `a`​ para modo inserir texto e `esc`​ pra sair
@@ -12,6 +14,8 @@ Trabalha com dois modos, modo normal, com comandos dados através de `:`​ e mo
 * ​`:q`​ pra sair
 * ​`:wq`​ salva e sai
 * ​`:q!`​ fecha sem salvar (ignora mudanças no arquivo)
+
+## Básico
 
 * Diferenças entre `i`​ `a`​ e `o`​ / `I`​ `A`​ e `O`​
 	* ​`i`​: Insere antes do cursor.
@@ -40,6 +44,6 @@ Trabalha com dois modos, modo normal, com comandos dados através de `:`​ e mo
   * no modo norma inserir `5 🔼`​ ou `5 ⬇️`​ faz com que se mova 5 linhas, o mesmo funciona com `5 ➡️`​ ou `5 ⬅️`​
   * ​`j`​ sobe e `k`​ desce, `h`​ vai pra esquerda e `l`​ para a direita, serve pra aumentar a velocidade de movimentação de quem digita com os 10 dedos (tmb pode usar recurso onde `10+j`​ vai subir 10 linhas)
 
-* [ ] [ https://youtu.be/RZ4p-saaQkc?t=1467](https://youtu.be/RZ4p-saaQkc?t=1467)
+* [ ] TODO [ https://youtu.be/RZ4p-saaQkc?t=1467](https://youtu.be/RZ4p-saaQkc?t=1467)
 
 ‍
