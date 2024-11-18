@@ -2,9 +2,7 @@
 title: Welcome to Quartz
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+-  [documentation](https://quartz.jzhao.xyz) 
+- Sincronizar com: `npx quartz sync`
 
-Sincronizar com: `npx quartz sync`
-
-[[Vamo testar porra]]
+[[tetas]]
