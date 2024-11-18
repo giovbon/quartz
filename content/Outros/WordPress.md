@@ -57,4 +57,4 @@ volumes:
 
 - Instalação em web host [https://www.youtube.com/watch?v=09gj5gM4V98&t=1565s](https://www.youtube.com/watch?v=09gj5gM4V98&t=1565s)
 
-- [ ] TODO [https://youtu.be/09gj5gM4V98?t=1566](https://youtu.be/09gj5gM4V98?t=1566)
+- [ ] DOING [https://youtu.be/09gj5gM4V98?t=1566](https://youtu.be/09gj5gM4V98?t=1566)

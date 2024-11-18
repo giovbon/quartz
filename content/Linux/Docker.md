@@ -183,4 +183,4 @@ cat my-data/hello.txt
 exit
 ```
 
-- [ ] TODO https://youtu.be/RqTEHSBrYFw?t=5285
+- [ ] DOING https://youtu.be/RqTEHSBrYFw?t=5285

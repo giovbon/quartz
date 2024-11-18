@@ -44,6 +44,6 @@ Trabalha com dois modos, modo normal, com comandos dados através de `:`​ e mo
   * no modo norma inserir `5 🔼`​ ou `5 ⬇️`​ faz com que se mova 5 linhas, o mesmo funciona com `5 ➡️`​ ou `5 ⬅️`​
   * ​`j`​ sobe e `k`​ desce, `h`​ vai pra esquerda e `l`​ para a direita, serve pra aumentar a velocidade de movimentação de quem digita com os 10 dedos (tmb pode usar recurso onde `10+j`​ vai subir 10 linhas)
 
-* [ ] TODO [ https://youtu.be/RZ4p-saaQkc?t=1467](https://youtu.be/RZ4p-saaQkc?t=1467)
+* [ ] DOING [ https://youtu.be/RZ4p-saaQkc?t=1467](https://youtu.be/RZ4p-saaQkc?t=1467)
 
 ‍

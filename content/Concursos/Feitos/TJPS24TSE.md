@@ -3,7 +3,10 @@ title: Técnico Judiciário - Programação de Sistemas 2024
 tags:
   - concurso
 código: TJPS24TSE
+publish: "false"
 ---
+# Técnico Judiciário - Programação de Sistemas 2024
+
 Banca: CEBRASPE
 Edital: [[Edital TJPS24TSE.pdf]]
 
