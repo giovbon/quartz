@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "pt-BR",
     baseUrl: "giovbon.github.io/quartz",
-    ignorePatterns: ["PRIVATE", "Templates", ".obsidian", "DAILY", "CAPTURA"],
+    ignorePatterns: ["PRIVATE", "Templates", ".obsidian", "DAILY", "Excalidraw"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
