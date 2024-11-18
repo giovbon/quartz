@@ -127,3 +127,17 @@ Edital: [[Edital TJPS24TSE.pdf]]
         - 7.2 Requisitos para a demonstração da responsabilidade do Estado.
         - 7.3 Causas excludentes e atenuantes da responsabilidade do Estado.
 
+## JavaScript
+
+- hoisting
+- Infinity e -Infinity o que representam
+- evento onchange (DOM)
+- diferença entre == e ===
+- de tipo de casos um valor NaN é gerado
+- uso de indexOf num array e o que retorna
+- propriedade lenght e o que retorna
+- se setTimeout interrompe a execução de um programa (assincronicidade)
+- parseInt para converter uma string em um inteiro
+- função falsa top() que na verdade é Math.max() que retorna maior valor entre dois ou mais números
+- event handler inline (DOM)
+- função eval()
