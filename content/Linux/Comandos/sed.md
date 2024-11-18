@@ -1,7 +1,5 @@
 ---
 title: sed
-tags:
-  - devops
 ---
 `sed`​ é uma ferramenta de linha de comando usada para editar e transformar texto em fluxos de dados, permitindo operações como substituição, inserção e exclusão de forma não interativa e eficiente, frequentemente utilizada em scripts para automatizar a manipulação de grandes volumes de dados.
 
