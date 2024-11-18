@@ -8,6 +8,10 @@ fonte: https://www.youtube.com/watch?v=RqTEHSBrYFw
 
 A containerização é sobre empacotar uma aplicação e suas dependências em um contêiner, garantindo que ela funcione da mesma forma em todos os lugares. Os contêineres são o novo padrão para empacotar software. Eles garantem que sua aplicação funcione de maneira consistente em diferentes ambientes, o que simplifica a implantação e o gerenciamento. O Docker é a ferramenta preferida para containerização.
 
+> [!info] Links Docker
+> - [Docker Cheat Sheet & Quick Reference](https://cheatsheets.zip/docker)
+> - [Docker Roadmap - roadmap.sh](https://roadmap.sh/docker)
+
 > [!tip] Veja +
 > 
 > [[Docker Compose]]

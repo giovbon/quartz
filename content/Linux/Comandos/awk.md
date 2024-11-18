@@ -3,6 +3,9 @@ title: awk
 ---
 `awk`​ é uma poderosa linguagem de programação e ferramenta de processamento de texto que é frequentemente utilizada em sistemas Unix e Linux. O `awk`​ é especialmente útil para manipulação e análise de dados em formato de texto, como arquivos CSV ou saídas de comandos. Ele permite que você processe e extraia informações de linhas de texto com base em padrões e condições.
 
+> [!info] Links awk
+> - [Awk Command Cheat Sheet & Quick Reference](https://cheatsheets.zip/awk)
+
 No exemplo:
 
 ```bash

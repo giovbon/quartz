@@ -1,3 +1,3 @@
-> [!tip] Veja +
+> [!info] Links {{title}}
 
-info summary info todo done question warning failure danger bug example quote
+%%info summary info todo done question warning failure danger bug example quote%%

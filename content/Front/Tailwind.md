@@ -3,6 +3,8 @@ title: Tailwind
 tags:
   - frontend
 ---
+![[JavaScript#^LinksJavascript]]
+
 # Tailwind
 
 * Textos

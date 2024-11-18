@@ -18,7 +18,7 @@ tags:
 ## Resolução
 
 > [!tip] Veja +
-> [[Bash Script]] [[mpstats]] [[pipe e &&]] [[awk]] [[sed]] 
+> [[Bash]] [[mpstats]] [[pipe e &&]] [[awk]] [[sed]] 
 
 ```bash
 #!/bin/bash

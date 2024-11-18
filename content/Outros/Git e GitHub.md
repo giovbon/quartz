@@ -2,7 +2,13 @@
 title: Git e GitHub
 tags:
   - devops
+aliases:
+  - Git
+  - GitHub
 ---
+> [!info] Links Git
+> - [Git Command Cheat Sheet & Quick Reference](https://cheatsheets.zip/git)
+
 Inicializando github
 
 ```bash

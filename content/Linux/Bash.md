@@ -4,11 +4,14 @@ fonte: https://www.youtube.com/watch?v=tK9Oc6AEnR4
 tags:
   - devops
 ---
-![[neovim#Começar usando]]
+> [!info] Links Bash
+> - [Bash Cheat Sheet & Quick Reference](https://cheatsheets.zip/bash)
 
 > [!tip] Veja +
 > 
 > [[awk]] [[sed]]
+
+![[neovim#Começar usando]]
 ## Variáveis
 
 - definição com maiúsculas e `=` 

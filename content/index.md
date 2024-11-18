@@ -6,6 +6,7 @@ title: INDEX
 > - Sincronizar com: `npx quartz sync`
 
 > [!example] Configuração Obsidian
+> - [Home - Obsidian Help](https://help.obsidian.md/Home)
 > - [Obsidian Spaced Repetition](https://www.stephenmwangi.com/obsidian-spaced-repetition/)
 
 

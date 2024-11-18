@@ -4,6 +4,11 @@ tags:
   - devops
   - linguagem
 ---
+> [!info] Links Python
+> - [Python Cheat Sheet & Quick Reference](https://cheatsheets.zip/python)
+> - [Learn to become a modern Python developer](https://roadmap.sh/python)
+
+info summary info todo done question warning failure danger bug example quote
 ## Ambientes virtuais
 
 * O `pip`​ é o gerenciador de pacotes oficial do Python, utilizado para instalar, atualizar e gerenciar pacotes (bibliotecas) no ambiente Python. Com ele, você pode adicionar ferramentas e bibliotecas específicas para o seu projeto, como frameworks web, bibliotecas de análise de dados, e outras. O `pip`​ e ambientes virtuais são conceitos essenciais em Python que ajudam a gerenciar pacotes e dependências de projetos de maneira organizada e isolada.
