@@ -126,3 +126,4 @@ Edital: [[Edital TJPS24TSE.pdf]]
             - 7.1.2 Responsabilidade por omissão do Estado.
         - 7.2 Requisitos para a demonstração da responsabilidade do Estado.
         - 7.3 Causas excludentes e atenuantes da responsabilidade do Estado.
+

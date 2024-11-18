@@ -12,7 +12,7 @@ tags:
 	* ​`pip uninstall <nome_do_pacote></nome_do_pacote>`​: remove um pacote específico.
 	* ​`pip list`​: lista todos os pacotes instalados no ambiente atual.
 
-* ==Ambientes virtuais== em Python são espaços isolados criados para cada projeto, onde você pode instalar pacotes específicos sem afetar outros projetos ou o sistema principal. Isso é especialmente útil para evitar conflitos entre versões de pacotes e manter seu projeto mais organizado.
+* Ambientes virtuais em Python são espaços isolados criados para cada projeto, onde você pode instalar pacotes específicos sem afetar outros projetos ou o sistema principal. Isso é especialmente útil para evitar conflitos entre versões de pacotes e manter seu projeto mais organizado.
 	* No terminal, navegue até a pasta do projeto.
 	* ​`python -m venv nome_do_ambiente`​ substitua `nome_do_ambiente`​ por um nome desejado, como `venv`​ ou `env`​.
 	* ative o ambiente `source nome_do_ambiente/bin/activate`​
