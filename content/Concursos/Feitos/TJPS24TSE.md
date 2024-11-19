@@ -1,5 +1,5 @@
 ---
-title: Técnico Judiciário - Programação de Sistemas 2024
+title: TJPS24TSE
 tags:
   - concurso
 código: TJPS24TSE
