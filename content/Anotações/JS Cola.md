@@ -130,3 +130,94 @@ annotation-target: "[[JavaScript Cheat Sheet & Quick Reference.pdf]]"
 >
 ^xrjdowlhgss
 
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-19T13:10:42.344Z","text":"Em resumo, o código demonstra que tipos primitivos (como números) são passados por valor, enquanto objetos são passados por referência, permitindo que suas propriedades sejam alteradas dentro de funções.","updated":"2024-11-19T13:10:42.344Z","document":{"title":"JavaScript Cheat Sheet & Quick Reference.pdf","link":[{"href":"urn:x-pdf:4cc90b6df5902728fe06cc86d171503b"},{"href":"vault:/assets/JavaScript Cheat Sheet & Quick Reference.pdf"}],"documentFingerprint":"4cc90b6df5902728fe06cc86d171503b"},"uri":"vault:/assets/JavaScript Cheat Sheet & Quick Reference.pdf","target":[{"source":"vault:/assets/JavaScript Cheat Sheet & Quick Reference.pdf","selector":[{"type":"TextPositionSelector","start":11625,"end":11645},{"type":"TextQuoteSelector","exact":"Objects as arguments","prefix":"log(cat.whatName()); // => Pipey","suffix":"Shorthand object creationthis Ke"}]}]}
+>```
+>%%
+>*%%PREFIX%%log(cat.whatName()); // => Pipey%%HIGHLIGHT%% ==Objects as arguments== %%POSTFIX%%Shorthand object creationthis Ke*
+>%%LINK%%[[#^ndtzmb6wijf|show annotation]]
+>%%COMMENT%%
+>Em resumo, o código demonstra que tipos primitivos (como números) são passados por valor, enquanto objetos são passados por referência, permitindo que suas propriedades sejam alteradas dentro de funções.
+>%%TAGS%%
+>
+^ndtzmb6wijf
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-19T13:11:57.109Z","text":"Passagem para funções podem ser por valor ou por referência:\nPOR VALOR: uma cópia do valor é feita; alterações não afetam o original. Ocorre em: Números, Strings, Booleanos, Undefined, Null, Símbolos, BigInt.\n\nPOR REFERÊNCIA: Passa-se uma referência ao original; alterações afetam o objeto ou array original. Ocorre em Objetos, Arrays, Funções.","updated":"2024-11-19T13:11:57.109Z","document":{"title":"JavaScript Cheat Sheet & Quick Reference.pdf","link":[{"href":"urn:x-pdf:4cc90b6df5902728fe06cc86d171503b"},{"href":"vault:/assets/JavaScript Cheat Sheet & Quick Reference.pdf"}],"documentFingerprint":"4cc90b6df5902728fe06cc86d171503b"},"uri":"vault:/assets/JavaScript Cheat Sheet & Quick Reference.pdf"}
+>```
+>%%
+>*%%PREFIX%%%%HIGHLIGHT%% ==== %%POSTFIX%%*
+>%%LINK%%[[#^4ybfswlgbhu|show annotation]]
+>%%COMMENT%%
+>Passagem para funções podem ser por valor ou por referência:
+>POR VALOR: uma cópia do valor é feita; alterações não afetam o original. Ocorre em: Números, Strings, Booleanos, Undefined, Null, Símbolos, BigInt.
+>
+>POR REFERÊNCIA: Passa-se uma referência ao original; alterações afetam o objeto ou array original. Ocorre em Objetos, Arrays, Funções.
+>%%TAGS%%
+>
+^4ybfswlgbhu
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-19T13:18:04.832Z","text":"Métodos estáticos em JavaScript são funções que pertencem a uma classe, mas não são chamadas em instâncias dessa classe. Em vez disso, são chamados diretamente na classe. Isso significa que você não precisa criar um objeto da classe para usar um método estático.","updated":"2024-11-19T13:18:04.832Z","document":{"title":"JavaScript Cheat Sheet & Quick Reference.pdf","link":[{"href":"urn:x-pdf:4cc90b6df5902728fe06cc86d171503b"},{"href":"vault:/assets/JavaScript Cheat Sheet & Quick Reference.pdf"}],"documentFingerprint":"4cc90b6df5902728fe06cc86d171503b"},"uri":"vault:/assets/JavaScript Cheat Sheet & Quick Reference.pdf","target":[{"source":"vault:/assets/JavaScript Cheat Sheet & Quick Reference.pdf","selector":[{"type":"TextPositionSelector","start":12878,"end":12892},{"type":"TextQuoteSelector","exact":"Static Methods","prefix":"Song = new Song();mySong.play();","suffix":"Classclass Song {constructor(tit"}]}]}
+>```
+>%%
+>*%%PREFIX%%Song = new Song();mySong.play();%%HIGHLIGHT%% ==Static Methods== %%POSTFIX%%Classclass Song {constructor(tit*
+>%%LINK%%[[#^r3yfzjx5awd|show annotation]]
+>%%COMMENT%%
+>Métodos estáticos em JavaScript são funções que pertencem a uma classe, mas não são chamadas em instâncias dessa classe. Em vez disso, são chamados diretamente na classe. Isso significa que você não precisa criar um objeto da classe para usar um método estático.
+>%%TAGS%%
+>
+^r3yfzjx5awd
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-19T13:22:28.776Z","text":"\n\nextends: Esta palavra-chave é usada para indicar que uma classe é uma subclasse (ou classe filha) de outra classe (ou classe pai). Quando você usa extends, a classe filha herda todas as propriedades e métodos da classe pai. Isso permite que você crie uma hierarquia de classes e reutilize código. ","updated":"2024-11-19T13:22:28.776Z","document":{"title":"JavaScript Cheat Sheet & Quick Reference.pdf","link":[{"href":"urn:x-pdf:4cc90b6df5902728fe06cc86d171503b"},{"href":"vault:/assets/JavaScript Cheat Sheet & Quick Reference.pdf"}],"documentFingerprint":"4cc90b6df5902728fe06cc86d171503b"},"uri":"vault:/assets/JavaScript Cheat Sheet & Quick Reference.pdf","target":[{"source":"vault:/assets/JavaScript Cheat Sheet & Quick Reference.pdf","selector":[{"type":"TextPositionSelector","start":13298,"end":13323},{"type":"TextQuoteSelector","exact":"class Song extends Media ","prefix":"e = info.name;  }}// Child class","suffix":"{constructor(songData) {super(so"}]}]}
+>```
+>%%
+>*%%PREFIX%%e = info.name;  }}// Child class%%HIGHLIGHT%% ==class Song extends Media== %%POSTFIX%%{constructor(songData) {super(so*
+>%%LINK%%[[#^3y5opd8598d|show annotation]]
+>%%COMMENT%%
+>
+>
+>extends: Esta palavra-chave é usada para indicar que uma classe é uma subclasse (ou classe filha) de outra classe (ou classe pai). Quando você usa extends, a classe filha herda todas as propriedades e métodos da classe pai. Isso permite que você crie uma hierarquia de classes e reutilize código. 
+>%%TAGS%%
+>
+^3y5opd8598d
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-19T13:22:42.407Z","text":"\n\nsuper(): Esta função é chamada dentro do construtor da classe filha para invocar o construtor da classe pai. Isso é necessário para garantir que as propriedades da classe pai sejam inicializadas corretamente antes de você adicionar propriedades específicas da classe filha. Sem chamar super(), você não poderá usar this no construtor da classe filha. ","updated":"2024-11-19T13:22:42.407Z","document":{"title":"JavaScript Cheat Sheet & Quick Reference.pdf","link":[{"href":"urn:x-pdf:4cc90b6df5902728fe06cc86d171503b"},{"href":"vault:/assets/JavaScript Cheat Sheet & Quick Reference.pdf"}],"documentFingerprint":"4cc90b6df5902728fe06cc86d171503b"},"uri":"vault:/assets/JavaScript Cheat Sheet & Quick Reference.pdf","target":[{"source":"vault:/assets/JavaScript Cheat Sheet & Quick Reference.pdf","selector":[{"type":"TextPositionSelector","start":13347,"end":13362},{"type":"TextQuoteSelector","exact":"super(songData)","prefix":"s Media {constructor(songData) {","suffix":";this.artist = songData.artist; "}]}]}
+>```
+>%%
+>*%%PREFIX%%s Media {constructor(songData) {%%HIGHLIGHT%% ==super(songData)== %%POSTFIX%%;this.artist = songData.artist;*
+>%%LINK%%[[#^gzwidlhqvz7|show annotation]]
+>%%COMMENT%%
+>
+>
+>super(): Esta função é chamada dentro do construtor da classe filha para invocar o construtor da classe pai. Isso é necessário para garantir que as propriedades da classe pai sejam inicializadas corretamente antes de você adicionar propriedades específicas da classe filha. Sem chamar super(), você não poderá usar this no construtor da classe filha. 
+>%%TAGS%%
+>
+^gzwidlhqvz7
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-19T13:33:05.305Z","text":"variável usada antes de ser declarada, o JavaScript irá reconhecê-la e atribuir a ela o valor undefined até que a declaração seja encontrada","updated":"2024-11-19T13:33:05.305Z","document":{"title":"JavaScript Cheat Sheet & Quick Reference.pdf","link":[{"href":"urn:x-pdf:4cc90b6df5902728fe06cc86d171503b"},{"href":"vault:/assets/JavaScript Cheat Sheet & Quick Reference.pdf"}],"documentFingerprint":"4cc90b6df5902728fe06cc86d171503b"},"uri":"vault:/assets/JavaScript Cheat Sheet & Quick Reference.pdf","target":[{"source":"vault:/assets/JavaScript Cheat Sheet & Quick Reference.pdf","selector":[{"type":"TextPositionSelector","start":1309,"end":1344},{"type":"TextQuoteSelector","exact":"console.log(count); // => undefined","prefix":"is ${age} years old.`;let count;","suffix":"count = 10;console.log(count); /"}]}]}
+>```
+>%%
+>*%%PREFIX%%is ${age} years old.`;let count;%%HIGHLIGHT%% ==console.log(count); // => undefined== %%POSTFIX%%count = 10;console.log(count); /*
+>%%LINK%%[[#^673xu9iy66i|show annotation]]
+>%%COMMENT%%
+>variável usada antes de ser declarada, o JavaScript irá reconhecê-la e atribuir a ela o valor undefined até que a declaração seja encontrada
+>%%TAGS%%
+>
+^673xu9iy66i

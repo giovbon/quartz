@@ -10,7 +10,7 @@ title: INDEX
 > - [Obsidian Spaced Repetition](https://www.stephenmwangi.com/obsidian-spaced-repetition/)
 
 ```query
-task:doing
+task-todo:doing
 ```
 
 ```query
